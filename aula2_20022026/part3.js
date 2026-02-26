@@ -21,7 +21,6 @@ var soma = 0 // soma do estoque
 for(var i = 0; i<carros.length; i++ ){
     soma+= carros[i]['estoque']
 }
-   console.log(soma) // exibir no console a soma
+   console.log(`A soma de todos os carro no estoque é ${soma}`) // exibir no console a soma
 
-   console.log (`O objeto de maior estoque é o ${carros[7].nome} com ${carros[7].estoque} 
-    unidades em estoque`) // qual objeto possui o maior estoque 
+   console.log (`O objeto de maior estoque é o ${carros[7].nome} com ${carros[7].estoque} unidades em estoque`) // qual objeto possui o maior estoque 
