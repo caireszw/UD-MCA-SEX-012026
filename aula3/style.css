@@ -39,7 +39,7 @@ p{
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
 
-/* Lista de informações */
+
 ul{
     margin-top: 20px;
     padding-left: 20px;
@@ -51,19 +51,19 @@ li{
     margin-bottom: 15px;
 }
 
-/* Rodapé */
+
 footer{
     margin-top: 40px;
     padding-top: 20px;
     border-top: 2px solid #ccc;
 }
 
-/* Título contato */
+
 footer h2{
     margin-bottom: 10px;
 }
 
-/* Links */
+
 a{
     color: #0077b5;
     text-decoration: none;
@@ -71,4 +71,4 @@ a{
 
 a:hover{
     text-decoration: underline;
-}
+}        
